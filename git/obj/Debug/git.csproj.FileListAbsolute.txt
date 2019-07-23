@@ -1,0 +1,1 @@
+D:\VS项目\Git体验\git\git\bin\Debug\git.exe.config
