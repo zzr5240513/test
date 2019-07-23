@@ -19,7 +19,7 @@ namespace git
 
         public string cmd()
         {
-            return "word1";
+            return "word3";
         }
     }
 }
