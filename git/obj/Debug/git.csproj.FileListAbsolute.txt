@@ -1,1 +1,2 @@
 D:\VS项目\Git体验\git\git\bin\Debug\git.exe.config
+C:\Users\86134\Source\Repos\test\git\bin\Debug\git.exe.config
